@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hadik\\My project (4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|c:\\users\\hadik\\my project (4)\\assets\\convai\\scripts\\runtime\\core\\convainpcmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\convai\\scripts\\runtime\\core\\convainpcmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|c:\\users\\hadik\\my project (4)\\assets\\convai\\scripts\\runtime\\core\\convaigrpcapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\convai\\scripts\\runtime\\core\\convaigrpcapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|c:\\users\\hadik\\my project (4)\\assets\\convai\\scripts\\runtime\\playerstats\\convaiplayerdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\convai\\scripts\\runtime\\playerstats\\convaiplayerdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|c:\\users\\hadik\\my project (4)\\assets\\convai\\scripts\\runtime\\addons\\player\\convaiplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\convai\\scripts\\runtime\\addons\\player\\convaiplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13138F4F-F6BB-2E64-F56E-9E3C60BCE2AA}|Assembly-CSharp-Editor.csproj|c:\\users\\hadik\\my project (4)\\assets\\convai\\scripts\\editor\\custompackage\\convaicustompackageinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13138F4F-F6BB-2E64-F56E-9E3C60BCE2AA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\convai\\scripts\\editor\\custompackage\\convaicustompackageinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|c:\\users\\hadik\\my project (4)\\assets\\convai\\scripts\\runtime\\features\\longtermmemory\\convailtmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\convai\\scripts\\runtime\\features\\longtermmemory\\convailtmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\hadik\\My project (4)\\assets\\convai\\scripts\\runtime\\core\\convaiheadtracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\convai\\scripts\\runtime\\core\\convaiheadtracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\hadik\\My project (4)\\assets\\convai\\scripts\\runtime\\features\\lipsync\\convailipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\convai\\scripts\\runtime\\features\\lipsync\\convailipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13138F4F-F6BB-2E64-F56E-9E3C60BCE2AA}|Assembly-CSharp-Editor.csproj|C:\\Users\\hadik\\My project (4)\\assets\\convai\\scripts\\editor\\setup\\accountssection\\apikeysetup\\apikeysetuplogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13138F4F-F6BB-2E64-F56E-9E3C60BCE2AA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\convai\\scripts\\editor\\setup\\accountssection\\apikeysetup\\apikeysetuplogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConvaiHeadTracking.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiHeadTracking.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiHeadTracking.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiHeadTracking.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiHeadTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:09:36.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConvaiLipSync.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Features\\LipSync\\ConvaiLipSync.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Runtime\\Features\\LipSync\\ConvaiLipSync.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Features\\LipSync\\ConvaiLipSync.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Runtime\\Features\\LipSync\\ConvaiLipSync.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:53:00.583Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "APIKeySetupLogic.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Editor\\Setup\\AccountsSection\\APIKeySetup\\APIKeySetupLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Editor\\Setup\\AccountsSection\\APIKeySetup\\APIKeySetupLogic.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Editor\\Setup\\AccountsSection\\APIKeySetup\\APIKeySetupLogic.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Editor\\Setup\\AccountsSection\\APIKeySetup\\APIKeySetupLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:51:31.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvaiLTMController.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Features\\LongTermMemory\\ConvaiLTMController.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Runtime\\Features\\LongTermMemory\\ConvaiLTMController.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Features\\LongTermMemory\\ConvaiLTMController.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Runtime\\Features\\LongTermMemory\\ConvaiLTMController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:10:46.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvaiNPCManager.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiNPCManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiNPCManager.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiNPCManager.cs*",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiNPCManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:49.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvaiPlayerDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\PlayerStats\\ConvaiPlayerDataHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Runtime\\PlayerStats\\ConvaiPlayerDataHandler.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\PlayerStats\\ConvaiPlayerDataHandler.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Runtime\\PlayerStats\\ConvaiPlayerDataHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:20.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvaiPlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Addons\\Player\\ConvaiPlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Runtime\\Addons\\Player\\ConvaiPlayerMovement.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Addons\\Player\\ConvaiPlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Runtime\\Addons\\Player\\ConvaiPlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:34:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvaiGRPCAPI.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiGRPCAPI.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiGRPCAPI.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiGRPCAPI.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Runtime\\Core\\ConvaiGRPCAPI.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAawBMBAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:33:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvaiCustomPackageInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Editor\\CustomPackage\\ConvaiCustomPackageInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Convai\\Scripts\\Editor\\CustomPackage\\ConvaiCustomPackageInstaller.cs",
+              "ToolTip": "C:\\Users\\hadik\\My project (4)\\Assets\\Convai\\Scripts\\Editor\\CustomPackage\\ConvaiCustomPackageInstaller.cs",
+              "RelativeToolTip": "Assets\\Convai\\Scripts\\Editor\\CustomPackage\\ConvaiCustomPackageInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:32:20.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
