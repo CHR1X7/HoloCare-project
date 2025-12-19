@@ -77,7 +77,6 @@ Winner – Senior Engineering & Computer Science Expo
 📄 Publication
 
 This project is supported by an IEEE academic paper detailing the design, implementation, and evaluation of HoloCare.
-📎 (Add IEEE link here if public)
 
 🚀 Future Work
 
